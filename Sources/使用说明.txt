@@ -1,0 +1,4 @@
+本程序能够根据Visual Studio 10.0.40219.1及以上的版本所生成的目录，重新整合生成解决方案文件，避免手动疯狂点添加→现有项目文件进行项目整合而导致的手指抽搐。
+程序由Aminor_z使用Python开发。
+代码并不复杂，已在Github上公开。
+GitHub:https://github.com/Aminor-z/VS-Project-Loader
